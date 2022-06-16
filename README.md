@@ -5,8 +5,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=luis-gustavo-sales-dev&show_icons=true&theme=dracula">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-gustavo-sales-dev&layout=compact&theme=dracula">
 </div>
-  
-## Linguagens com experiência
+
+<br>
   
 <div>
     <img align="center" alt="java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 100%;">
@@ -18,30 +18,11 @@
     <img align="center" alt="Rafa-React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
     <img align="center" alt="Rafa-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
     <img align="center" alt="Rafa-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+    <img align="center" alt="Rafa-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="max-width: 100%;">
   
 </div>
   
 <br>
-  
-## Linguagens que estou aprendendo:
-  
-<div>
-  <img align="center" alt="Rafa-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Rafa-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Rafa-CSS" height="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" style="max-width: 100%;">
-</div>
-<br>
-  
-## Outras tecnologias que utilizo e/ou estou aprendendo:
-  
-<div>
-  <img align="center" alt="Rafa-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Rafa-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="max-width: 100%;">
-</div>
-  
-<br>
-  
-## Social Networks
   
 <div>
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" rel="nofollow">
@@ -56,7 +37,21 @@
     <img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   </a>
 </div>
-  <br>
+  
+<br>
+  
+### Aprendendo:
+  
+<div>
+  <img align="center" alt="Rafa-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Rafa-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Rafa-CSS" height="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Rafa-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="max-width: 100%;">
+</div>
+<br>
+  
+  
+
   
 ## Experiência em infraestrutura de redes
 
