@@ -6,7 +6,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-gustavo-sales-dev&layout=compact&theme=dracula">
 </div>
   
-## Linguagens que utilizo no cotidiano
+## Linguagens com experiência
   
 <div>
     <img align="center" alt="java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 100%;">
