@@ -1,4 +1,4 @@
-# Oi 👋, tudo bem? Meu nome é Luis Gustavo. Sou desenvolvedor front e backend.
+# Oi 👋, tudo bem? Meu nome é Luis Gustavo. Sou desenvolvedor FullStack.
 
 <div>
   <a href="https://github.com/luis-gustavo-sales-dev">
